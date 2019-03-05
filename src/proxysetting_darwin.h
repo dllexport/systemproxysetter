@@ -1,0 +1,14 @@
+//
+// Created by mario on 3/5/2019.
+//
+
+#ifndef SYSTEMPROXYSETTER_PROXYSETTING_DARWIN_H
+#define SYSTEMPROXYSETTER_PROXYSETTING_DARWIN_H
+
+
+class proxysetting_darwin {
+
+};
+
+
+#endif //SYSTEMPROXYSETTER_PROXYSETTING_DARWIN_H

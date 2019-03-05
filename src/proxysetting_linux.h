@@ -1,0 +1,14 @@
+//
+// Created by mario on 3/5/2019.
+//
+
+#ifndef SYSTEMPROXYSETTER_PROXYSETTING_LINUX_H
+#define SYSTEMPROXYSETTER_PROXYSETTING_LINUX_H
+
+
+class proxysetting_linux {
+
+};
+
+
+#endif //SYSTEMPROXYSETTER_PROXYSETTING_LINUX_H

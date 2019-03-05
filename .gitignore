@@ -3,3 +3,6 @@
 ################################################################################
 
 /.idea
+/.vs/systemproxysetter/v15/ipch/AutoPCH/2bd1849d2ea8dc17/MAIN.ipch
+/.vs
+/cmake-build-debug
