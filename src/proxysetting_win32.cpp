@@ -1,8 +1,9 @@
 //
 // Created by mario on 3/5/2019.
 //
+#ifdef _WIN32
 
-#include "proxysetting_win32.h"
+#include "proxysetting.h"
 #define UNICODE
 
 #include <iostream>
@@ -104,3 +105,5 @@ void SetNoProxy()
     InternetSetOption(0, INTERNET_OPTION_REFRESH, NULL, NULL);
 
 }
+
+#endif
