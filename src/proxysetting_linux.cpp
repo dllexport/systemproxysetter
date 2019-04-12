@@ -5,5 +5,19 @@
 
 #include "proxysetting.h"
 
+void SetGlobalProxy(std::string ip, std::string port)
+{
+
+}
+
+void SetPacProxy(std::string pac_url)
+{
+
+}
+
+void SetNoProxy()
+{
+
+}
 
 #endif
